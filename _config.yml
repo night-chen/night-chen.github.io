@@ -24,9 +24,7 @@ youtube_username: globalmtb
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Yuchen Zhuang. I am a graduate student majoring in Electrical and Computer Engineering (ECE) in Georgia Institute of Technology. My research interests are mainly in Natural Language Processing and Data mining, under the direction of Prof. Chao Zhang. I am studying in uncertainty quantifications in NLP tasks and fake news detection at present. Before entering graduate school, I accomplished my undergraduate study in Southeast University, majoring in information Engineering. I worked under the supervision of Prof. Chuan Zhang and mainly researched in DNA computing and multi-scale communication system.
-
-I really enjoy doing interesting things! :D
+  My name is Yuchen Zhuang. I am a graduate student majoring in Electrical and Computer Engineering (ECE) in Georgia Institute of Technology. My research interests are mainly in <mark>Natural Language Processing</mark> and <mark>Data mining</mark>, under the direction of Prof. Chao Zhang. I am studying in uncertainty quantifications in NLP tasks and fake news detection at present. Before entering graduate school, I accomplished my undergraduate study in Southeast University, majoring in information Engineering. I worked under the supervision of Prof. Chuan Zhang and mainly researched in DNA computing and multi-scale communication system.  I really enjoy doing interesting things! :D
 # Projects Section
 # projects_title: Projects
 
