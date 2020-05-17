@@ -3,10 +3,10 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Yuchen Zhuang
+title: ECE Graduate Student
+email: yczhuang@gatech.edu
+website: night-chen.github.io
 
 # Social links
 twitter_username: facespics
@@ -24,10 +24,9 @@ youtube_username: globalmtb
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  My name is Yuchen Zhuang. I am a graduate student majoring in Electrical and Computer Engineering (ECE) in Georgia Institute of Technology. My research interests are mainly in Natural Language Processing and Data mining, under the direction of Prof. Chao Zhang. I am studying in uncertainty quantifications in NLP tasks and fake news detection at present. Before entering graduate school, I accomplished my undergraduate study in Southeast University, majoring in information Engineering. I worked under the supervision of Prof. Chuan Zhang and mainly researched in DNA computing and multi-scale communication system.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+I really enjoy doing interesting things! :D
 # Projects Section
 # projects_title: Projects
 
@@ -40,11 +39,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+TBD
 
 # Footer
 footer_show_references: true
