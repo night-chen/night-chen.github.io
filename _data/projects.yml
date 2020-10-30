@@ -1,20 +1,23 @@
-- name: Graduation Time
-  company: Georgia Institute of Technology
+- name: Georgia Institute of Technology
   dates: August 2019 - Present
   description: >
     Not yet
     
-- name: Undergraduation Time
-  company: Southeast University
+- name: Southeast University
   dates: August 2015 - June 2019
   description: >
-    Second Prize of Excellent Undergraduate Student Graduation Thesis in Jiangsu Province.
-    Most Influential Graduate Award Nomination (20/4000), Southeast University
-    Advanced Individual in Scientific Research, Southeast University
-    International Collaboration Symposium on Information, Production & Systems 2017 Excellent Paper Award
+    Second Prize of Excellent Undergraduate Student Graduation Thesis in Jiangsu Province
+    
+    Most Influential Graduate Award Nomination (20/4000)
+    
+    Advanced Individual in Scientific Research
+    
+    International Collaboration Symposium on Information, Production & Systems (ISIPS) 2017 Excellent Paper Award
+    
     Other Scholarship on Innovation or Scientific Research
     
 - name: High School Time
   description: >
     First Prize, National High School Mathematical League
+    
     First Prize, National Olympiad in Informatics in Provinces
