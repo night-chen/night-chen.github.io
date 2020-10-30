@@ -1,8 +1,10 @@
-- layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+#### Natural Language Processing and Machine Learning (Graduation Time):   
+  **Compositional Graphical Modular Network for Event Extraction on COVID-19 Related Tweets**
+  **Yuchen Zhuang**, Chao Zhang   
+  Targeting *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT)*, 2021    
+  [**Calibrated Language Model Fine-tuning for In- and Out-of-Distribution Data**](https://arxiv.org/pdf/2010.11506.pdf)   
+  Lingkai Kong, Haoming Jiang, **Yuchen Zhuang**, Jie Lyu, Tuo Zhao, Chao Zhang   
+  *The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2020   
+  **EXAM: An Explainable Attention-based Model for COVID-19 Automatic Diagnosis**
+  Wenqi Shi, Li Tong, **Yuchen Zhuang**, Yuanda Zhu, Dongmei May Wang   
+  *ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM BCB)*, 2020    
