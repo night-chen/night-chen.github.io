@@ -3,7 +3,7 @@
   dates: August 2019 - Present
   qualification: MSc Electrical and Computer Engineering
   description: | # this will include new lines to allow paragraphs
-    No awards yet -- QAQ.
+    No awards yet QAQ.
 
 - layout: left
   name: Southeast University
@@ -19,10 +19,4 @@
     International Collaboration Symposium on Information, Production & Systems (ISIPS) 2017 Excellent Paper Award
     
     Other Scholarship on Innovation or Scientific Research
-    
- - layout: left
-  name: High School
-  description: | # this will include new lines to allow paragraphs
-    First Prize, National High School Mathematical League
-    
-    First Prize, National Olympiad in Informatics in Provinces
+
