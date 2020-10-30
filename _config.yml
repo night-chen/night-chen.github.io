@@ -28,9 +28,6 @@ about_content: | # this will include new lines to allow paragraphs
   
   **Please check my** [<mark>CV.PDF</mark>](./images/Resume-Yuchen Zhuang_gt.pdf)
 
-# Project Section
-# experience_title: Project
-
 # Experience Section
 # experience_title: Experience
 
@@ -42,10 +39,6 @@ more_content: | # this will include new lines to allow paragraph
 
 
   #### Natural Language Processing and Machine Learning (Graduation Time):   
-    **Compositional Graphical Modular Network for Event Extraction on COVID-19 Related Tweets**   
-    **Yuchen Zhuang**, Chao Zhang   
-    Targeting *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT)*, 2021
-    
     **Compositional Graphical Modular Network for Event Extraction on COVID-19 Related Tweets**   
     **Yuchen Zhuang**, Chao Zhang   
     Targeting *Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT)*, 2021
@@ -79,7 +72,8 @@ more_content: | # this will include new lines to allow paragraph
     
   \* The other papers (including still revising ones) can be seen in detail in my CV. 
     
-
+# Project Section
+# experience_title: Education and Selected Awards
 
 # Footer
 footer_show_references: true
