@@ -28,9 +28,6 @@ about_content: | # this will include new lines to allow paragraphs
   
   **Please check my** [<mark>CV.PDF</mark>](./images/Resume-Yuchen Zhuang_gt.pdf)
 
-# Experience Section
-# experience_title: Experience
-
 # Education Section
 # educaton_title: Education
 
@@ -72,8 +69,6 @@ more_content: | # this will include new lines to allow paragraph
     
   \* The other papers (including still revising ones) can be seen in detail in my CV. 
     
-# Project Section
-# experience_title: Education and Selected Awards
 
 # Footer
 footer_show_references: true
