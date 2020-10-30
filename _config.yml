@@ -65,8 +65,6 @@ more_content: | # this will include new lines to allow paragraph
     
   \* The other papers (including still revising ones) can be seen in detail in my CV. 
     
-more_title: My cute kitten #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraph
 
 # Footer
 footer_show_references: true
