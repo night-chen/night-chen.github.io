@@ -1,10 +1,28 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  name: Georgia Institute of Technology
+  dates: August 2019 - Present
+  qualification: MSc Electrical and Computer Engineering
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    No awards yet -- QAQ.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: left
+  name: Southeast University
+  dates: August 2015 - June 2019
+  qualification: BEng Information Engineering
+  description: | # this will include new lines to allow paragraphs
+    Second Prize of Excellent Undergraduate Student Graduation Thesis in Jiangsu Province
+    
+    Most Influential Graduate Award Nomination (20/4000)
+    
+    Advanced Individual in Scientific Research
+    
+    International Collaboration Symposium on Information, Production & Systems (ISIPS) 2017 Excellent Paper Award
+    
+    Other Scholarship on Innovation or Scientific Research
+    
+ - layout: left
+  name: High School
+  description: | # this will include new lines to allow paragraphs
+    First Prize, National High School Mathematical League
+    
+    First Prize, National Olympiad in Informatics in Provinces
