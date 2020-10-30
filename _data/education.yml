@@ -20,3 +20,11 @@
     
     Other Scholarship on Innovation or Scientific Research
 
+- layout: left
+  name: High school
+  dates: August 2012 - August 2015
+  qualification: Common Student
+  description: | # this will include new lines to allow paragraphs
+    First Prize, National High School Mathematical League
+
+    First Prize, National Olympiad in Informatics in Provinces
