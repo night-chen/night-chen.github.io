@@ -25,6 +25,8 @@ youtube_username: globalmtb
 about_profile_image: images/photo_zyc.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is Yuchen Zhuang. I am a graduate student majoring in Electrical and Computer Engineering (ECE) in [Georgia Institute of Technology](https://www.gatech.edu/). My research interests are mainly in <mark>Natural Language Processing</mark> and <mark>Data mining</mark>, under the direction of [Prof. Chao Zhang](http://chaozhang.org/). I am studying in uncertainty quantifications in NLP tasks and zero-shot event extraction from Twitter data at present. Before entering graduate school, I accomplished my undergraduate study in [Southeast University](https://www.seu.edu.cn/english), majoring in information Engineering. I worked under the supervision of [Prof. Chuan Zhang](https://www.researchgate.net/profile/Chuan_Zhang24) and mainly researched in mathematical and probabilistic modeling in multi-scale communication system. I really enjoy doing interesting things! :D
+  
+  **Please check my** [<mark>CV.PDF</mark>](./images/Resume-Yuchen Zhuang_gt.pdf)
 
 # Experience Section
 # experience_title: Experience
