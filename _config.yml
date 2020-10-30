@@ -9,16 +9,12 @@ email: yczhuang@gatech.edu
 website: night-chen.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: yuchen_zhuang
+github_username:  night-chen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+instagram_username: yolo_v5
 
 # About Section
 # about_title: About Me
@@ -69,6 +65,8 @@ more_content: | # this will include new lines to allow paragraph
     
   \* The other papers (including still revising ones) can be seen in detail in my CV. 
     
+more_title: My cute kitten #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraph
 
 # Footer
 footer_show_references: true
